@@ -1,4 +1,5 @@
 Can machine learning classify and evaluate basic Muay Thai techniques using pose estimation?
+**Due to privacy reasons and the exam board's instruction the code of the project cannot be public, however if you have any questions feel free to reach out.**
 
 ## Overview
 This project is my **Extended Project Qualification (EPQ)**.  
